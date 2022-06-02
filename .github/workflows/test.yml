@@ -2,7 +2,7 @@ name: Features
 on:
   push:
     branches:
-      - /*
+      - master
   
 
 jobs:
